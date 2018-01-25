@@ -1,1 +1,41 @@
-remote_theme: vectorvcinco/huertito.com-theme
+remote_theme: vectorvcinco/huertito-theme
+
+title: Your awesome title
+author: GitHub User
+email: your-email@domain.com
+description: > # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+
+love: With love from Middle Zealand
+
+twitter_username: jekyllrb
+github_username:  jekyll
+
+# Minima date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+minima:
+  date_format: "%b %-d, %Y"
+
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+#header_pages:
+# - about.html
+
+# Build settings
+markdown: kramdown
+theme: minima
+exclude:
+  - Gemfile
+  - Gemfile.lock
+
+collections:
+  - features
+  - pricing
+  - otherfeatures
+  - kitcontents
+
+jekyll_analytics:
+  GoogleAnalytics:          # Add, if you want to track with Google Analytics
+    id: UA-91857415-2          # Required - replace with your tracking id
