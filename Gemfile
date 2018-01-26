@@ -5,8 +5,8 @@ group :jekyll_plugins do
   gem "github-pages"
 
   gem 'jekyll-seo-tag'
-  gem 'jekyll-analytics'
-  gem 'jekyll-money'
+#  gem 'jekyll-analytics'
+#  gem 'jekyll-money'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
