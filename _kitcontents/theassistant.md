@@ -1,5 +1,9 @@
 ---
 title: Y un asistente digital en tu mano
-image: http://lorempixel.com/output/abstract-q-c-640-480-4.jpg
+image:
 ---
-Aenean leo orci, aliquam eu urna a, porttitor mattis arcu.
+Nosotros también estamos cansados de descargar apps.
+
+Por eso Huertito se integra con lo que ya utilizas para hablar con tus amigos.
+
+<!--Utiliza tu asistente desde Facebook Messenger, Telegram, Line o tu correo electrónico.-->

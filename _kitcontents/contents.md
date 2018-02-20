@@ -1,5 +1,21 @@
 ---
 title: ¿Qué incluye Huertito?
-image: http://lorempixel.com/output/abstract-q-c-640-480-3.jpg
+images:
+  tierra:
+    image:
+    text: Contenedor Origami
+  tierra:
+    image:
+    text: Sustrato y semillas
+  tierra:
+    image:
+    text: Herramientas
+  tierra:
+    image:
+    text: Germinadores
+    tierra:
+      image:
+      text: Acceso al asistente digital    
 ---
-Aenean leo orci, aliquam eu urna a, porttitor mattis arcu.
+
+Incluimos todo lo que necesitas para iniciar desde el primer día
