@@ -1,5 +1,5 @@
 ---
-title: ¿Qué incluye Huertito?
+title: Siembra desde el primer día
 images:
   tierra:
     image:

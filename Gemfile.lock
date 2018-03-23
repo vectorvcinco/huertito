@@ -1,3 +1,12 @@
+PATH
+  remote: ../huertito-theme
+  specs:
+    huertito-theme (2.5.0)
+      jekyll (~> 3.6)
+      jekyll-analytics (~> 0.1)
+      jekyll-money (~> 0.1)
+      jekyll-seo-tag (~> 2.3)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -242,6 +251,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  huertito-theme!
   jekyll-analytics
   jekyll-feed (~> 0.6)
   jekyll-money
@@ -249,4 +259,4 @@ DEPENDENCIES
   tzinfo-data
 
 BUNDLED WITH
-   1.16.0
+   1.16.1

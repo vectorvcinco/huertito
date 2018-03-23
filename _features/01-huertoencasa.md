@@ -3,6 +3,6 @@ image:
 title: Tu huerto en casa
 ---
 
-Huertito® es tu propio huerto en casa hecho por nosotros y pensado para ti. Nuestro kit tiene todo lo que necesitas para iniciar: desde semillas, tierra y un contenedor, hasta un _asistente_ que te ayudará en todo lo que necesites saber sobre huertito.
+Huertito es un kit de jardinería y un asistente, hecho por nosotros y pensado para ti.
 
-Si no tienes experiencia Huertito te dirá que hacer y cómo hacerlo; desde cuanta agua necesitas o cómo sembrar tus semillas. Hasta cuando cosechar y qué puedes hacer con tus cosechas.
+Nuestro kit contiene todo lo que necesitas para empezar tu propio huerto en casa, sin importar el espacio que tengas.
