@@ -32,7 +32,7 @@ exclude:
 collections:
   - features
 #  - otherfeatures
-#  - kitcontents
+  - kitcontents
 #  - pricing
 
 jekyll_analytics:

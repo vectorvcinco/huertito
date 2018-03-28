@@ -1,21 +1,21 @@
 ---
 title: Siembra desde el primer día
-images:
-  tierra:
-    image:
-    text: Contenedor Origami
-  tierra:
-    image:
+items:
+  imagen1:
+    image: assets/images/tubo vertical.svg
     text: Sustrato y semillas
-  tierra:
-    image:
-    text: Herramientas
-  tierra:
-    image:
-    text: Germinadores
-    tierra:
-      image:
-      text: Acceso al asistente digital    
+  imagen2:
+    image: assets/images/contenedor.svg
+    text: Sustrato y semillas
+  imagen3:
+    image: assets/images/herramientas.svg
+    text: Sustrato y semillas
+  imagen4:
+    image: assets/images/palita.svg
+    text: Sustrato y semillas
+  imagen5:
+    image: assets/images/sustrato.svg
+    text: Sustrato y semillas
 ---
 
-Incluimos todo lo que necesitas para iniciar desde el primer día
+Incluimos todo lo que necesitas en un kit fácil de usar

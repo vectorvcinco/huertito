@@ -1,5 +1,5 @@
 ---
-image:
+image: assets/images/huertitos.jpg
 title: Tu huerto en casa
 ---
 
