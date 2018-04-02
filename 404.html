@@ -15,12 +15,22 @@ permalink: /404.html
     line-height: 1;
     letter-spacing: -1px;
   }
+  .fof {
+    background-image:url({{ 'assets/404.svg' | relative_url}});
+    background-repeat:no-repeat;
+    background-position:left center;
+    background-size:contain;
+    height:500px;
+
+    padding-top:175px;
+    padding-left:200px;
+
+    color:#343A40;
+  }
 </style>
 
-<div class="container">
+<div class="container fof">
   <h1>404</h1>
-
-  <img src="{{ 'assets/404.svg' | relative_url}}" alt="404 error">
 
   <p><strong>Page not found :(</strong></p>
   <p>La página solicitada no pudo ser encontrada</p>
