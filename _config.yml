@@ -12,14 +12,6 @@ email: huertito@vectorvcinco.design
 twitter_username: huertito
 github_username:  vectorvcinco
 
-# Minima date format
-# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
-
-# If you want to link only specific pages in your header, uncomment
-# this and add the path to the pages in order as they should show up
-#header_pages:
-# - about.html
-
 # Build settings
 markdown: kramdown
 
