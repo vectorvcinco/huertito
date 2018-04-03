@@ -1,9 +1,8 @@
 ---
 title: Un asistente digital en tu mano
-image:
+image: assets/images/phone.svg
 ---
-Diseñamos un amigo para tu teléfono, con el cual podrás hablar a través de mensajería instantanea.
-
 Tu asistente estará contigo, desde el momento en que abres tu kit y te acompañará en tu aventura de jardinería creativa.
+{: .d-none .d-sm-block}
 
 Resolverá dudas y te dará recordatorios y consejos sobre como cuidar de tu Huertito.
