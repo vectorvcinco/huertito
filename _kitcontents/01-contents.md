@@ -11,5 +11,4 @@ items:
     image: assets/images/palita.svg
     text: Composta
 ---
-
 Incluimos todo lo que necesitas en un kit fácil de usar
