@@ -1,8 +1,5 @@
 ---
-items:
-  imagen2:
-    image: assets/images/contenedor.svg
-    text: Contenedor Origami
+image: assets/images/contenedor.svg
 title: Tu contenedor
 ---
 Nos inspiramos en la cultura del Origami para crear un contenedor  fácil de armar.
