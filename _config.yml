@@ -21,6 +21,12 @@ exclude:
   - Gemfile
   - Gemfile.lock
 
+footer_sections:
+  faq: true
+  mediakit: true
+  respect: true
+
+
 collections:
   - features
 #  - otherfeatures
