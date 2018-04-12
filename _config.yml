@@ -1,4 +1,4 @@
-remote_theme: vectorvcinco/huertito-theme
+theme: huertito-theme
 
 title: "Huertito: Jardinería Creativa"
 author: GitHub User
@@ -20,6 +20,12 @@ kickstarter: true
 exclude:
   - Gemfile
   - Gemfile.lock
+
+footer_sections:
+  faq: true
+  mediakit: true
+  respect: true
+
 
 collections:
   - features
