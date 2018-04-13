@@ -7,7 +7,10 @@ permalink: /respect/
 Agradecemos a:
 
 - Elia, Karla, Paola, Felipe, Gerardo, Rubí
-- Teresa
+- Aliners & Ibra
+- Tere
+- Aura
+- Marius
 - Anxech
 - Mecabotware
 
